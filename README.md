@@ -1,5 +1,5 @@
 # Senior Data Analyst / Power BI developer :
-(https://github.com/ViswanadhaMReddy/V-R-Mutyala-Portfoilo/blob/main/Images/VR%20Mutyala_Data%20Analyst_Power%20BI%20Developer%20(1).docx)
+https://github.com/ViswanadhaMReddy/V-R-Mutyala-Portfoilo/blob/main/Data%20Analyst_Power%20BI%20Developer.docx
 # Technical Skills:
  - Data Analytics and Visualizations: Power BI, Tableau, Excel Pivot, Google Looker
  - Programming Languages: Python, R 
@@ -24,3 +24,7 @@ Data Analyst, 3XpertsServices	(Sep 2024 – Present)
   Provided continues maintenance and development of bug fixes for existing and new power BI reports twice a month
 
 # Projects 
+- 1 SQL PRoject :
+  #Cement Manufacturing Data Analysis
+Project Overview
+This project focuses on performing comprehensive data analysis on cement manufacturing data. It aims to offer insights into various aspects of the manufacturing process, including data cleaning, performance analysis, outlier detection, predictive maintenance, and trend forecasting. The goal is to identify operational inefficiencies, predict maintenance needs, and optimize production processes based on historical data.
