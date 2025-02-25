@@ -1,5 +1,5 @@
-# Senior Data Analyst / Power BI developer :https://github.com/ViswanadhaMReddy/V-R-Mutyala-Portfoilo/blob/main/Images/VR%20Mutyala_Data%20Analyst_Power%20BI%20Developer%20(1).docx
-
+# Senior Data Analyst / Power BI developer :
+(https://github.com/ViswanadhaMReddy/V-R-Mutyala-Portfoilo/blob/main/Images/VR%20Mutyala_Data%20Analyst_Power%20BI%20Developer%20(1).docx)
 # Technical Skills:
  - Data Analytics and Visualizations: Power BI, Tableau, Excel Pivot, Google Looker
  - Programming Languages: Python, R 
