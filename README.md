@@ -24,7 +24,7 @@ Data Analyst, 3XpertsServices	(Sep 2024 – Present)
   Provided continues maintenance and development of bug fixes for existing and new power BI reports twice a month
 
 # Projects 
-- 1 SQL PRoject :
-  #Cement Manufacturing Data Analysis
-Project Overview
+- 1 SQL PRoject :https://github.com/ViswanadhaMReddy/SQL-Project-
+  # Cement Manufacturing Data Analysis
+# Project Overview
 This project focuses on performing comprehensive data analysis on cement manufacturing data. It aims to offer insights into various aspects of the manufacturing process, including data cleaning, performance analysis, outlier detection, predictive maintenance, and trend forecasting. The goal is to identify operational inefficiencies, predict maintenance needs, and optimize production processes based on historical data.
