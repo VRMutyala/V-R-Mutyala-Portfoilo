@@ -24,7 +24,18 @@ Data Analyst, 3XpertsServices	(Sep 2024 – Present)
   Provided continues maintenance and development of bug fixes for existing and new power BI reports twice a month
 
 # Projects 
-- 1 SQL PRoject :https://github.com/ViswanadhaMReddy/SQL-Project-
-  # Cement Manufacturing Data Analysis
+# SQL Project :https://github.com/ViswanadhaMReddy/SQL-Project 
+  ## Cement Manufacturing Data Analysis
 # Project Overview
-This project focuses on performing comprehensive data analysis on cement manufacturing data. It aims to offer insights into various aspects of the manufacturing process, including data cleaning, performance analysis, outlier detection, predictive maintenance, and trend forecasting. The goal is to identify operational inefficiencies, predict maintenance needs, and optimize production processes based on historical data.
+- This project focuses on performing comprehensive data analysis on cement manufacturing data.
+- It aims to offer insights into various aspects of the manufacturing process, including data cleaning, performance analysis, outlier detection, predictive maintenance, and trend 
+  forecasting.
+- The goal is to identify operational inefficiencies, predict maintenance needs, and optimize production processes based on historical data.
+
+# Python Project : https://github.com/ViswanadhaMReddy/Python-projects 
+ ##  lending Club Loans
+# Project overview
+- Lending Club is a peer-to-peer lending platform that connects borrowers with investors.
+- This project analyzes Lending Club loan data to uncover patterns in loan approvals, borrower behavior, and loan defaults.
+- The objective is to provide meaningful insights that can help lenders and borrowers make informed decisions.
+
