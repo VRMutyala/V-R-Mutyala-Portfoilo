@@ -33,7 +33,7 @@ Data Analyst, Finger Print Software	(Sep 2024 – Feb 2025)
 - The goal is to identify operational inefficiencies, predict maintenance needs, and optimize production processes based on historical data.
 
 # Python Project : https://github.com/ViswanadhaMReddy/Lending_Club_Loans
- ##  lending Club Loans
+ ##  Lending Club Loans
 # Project overview
 - Lending Club is a peer-to-peer lending platform that connects borrowers with investors.
 - This project analyzes Lending Club loan data to uncover patterns in loan approvals, borrower behavior, and loan defaults.
