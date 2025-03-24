@@ -42,7 +42,7 @@ Data Analyst, 3XpertsServices	(Sep 2024 – Present)
 # Python Project : https://github.com/ViswanadhaMReddy/Insurance_Fraud_Claim
  ##  Insurance_Fraud_Claim
 # Project overview
-- Lending Club is a peer-to-peer lending platform that connects borrowers with investors.
-- This project analyzes Lending Club loan data to uncover patterns in loan approvals, borrower behavior, and loan defaults.
-- The objective is to provide meaningful insights that can help lenders and borrowers make informed decisions.
+- This repository contains a Python-based analysis of an insurance claims dataset to identify patterns of fraudulent behavior.
+- The project includes data preprocessing, exploratory data analysis (EDA), statistical testing, and a basic predictive model using a Random Forest Classifier.
+- The dataset, Data Set.csv, consists of 5,250 insurance claims with details such as claim amount, insurance type, fraud category, and fraud flag.
 
