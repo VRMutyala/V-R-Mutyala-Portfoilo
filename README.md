@@ -13,7 +13,7 @@ https://github.com/ViswanadhaMReddy/V-R-Mutyala-Portfoilo/blob/main/Data%20Analy
 Bachelor of Science in Information Technology (May 2003 – Apr 2007) Jawaharlal Nehru Technology University    
 
 # Work Experience 
-Data Analyst, Finger Print Software	(Aug 2024 – Feb 2025)
+Data Analyst, 3xpertsservices	(Aug 2024 – Present)
 - Built resource-efficient ETL pipelines using python, leading to data processing time reduction by 20 %
 - Embedded 15 Power BI reports on a salesforce portal page and successfully managed access to data for over 1k user’s roles (Dynamic low level security-DLS).
 - Developed the KPIs to monitor overpriced vendors, fraud invoices and duplicate purchases, allowing business users to take actions that resulted the $1.08M annually on the procurement 
